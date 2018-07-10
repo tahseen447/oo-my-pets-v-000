@@ -5,7 +5,7 @@ class Owner
 
   @@all = []
 
-  def initialize(species)
+  def initialize(species, pets)
     @species = species
     @@all << self
   end
@@ -25,5 +25,5 @@ class Owner
   def say_species
     @species
   end
-  
+
 end
