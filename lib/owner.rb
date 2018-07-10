@@ -47,5 +47,7 @@ class Owner
 
   def play_with_cats
   end
-end
 
+  def feed_fish
+  end
+end
