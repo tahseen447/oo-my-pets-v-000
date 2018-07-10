@@ -2,5 +2,5 @@ class Cat
   # code goes here
   attr_reader :name
 
-  def initialize
+  def initialize(name, mood)
 end
