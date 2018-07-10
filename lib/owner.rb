@@ -5,8 +5,9 @@ class Owner
 
   @@all = []
 
-  def initialize(species)
+  def initialize(species, pets= )
     @species = species
+    @pets = pets
     @@all << self
   end
 
