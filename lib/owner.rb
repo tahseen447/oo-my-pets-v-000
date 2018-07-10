@@ -47,7 +47,5 @@ class Owner
 
   def play_with_cats
   end
-en
+end
 
-def play_with_cats
-endd
