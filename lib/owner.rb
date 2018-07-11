@@ -60,5 +60,6 @@ class Owner
   end
 
   def list_pets
+    @pets[:fish].count
   end
 end
